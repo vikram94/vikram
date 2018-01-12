@@ -1,0 +1,7 @@
+127.0.0.1 - - [11/Jan/2018:20:46:02 +0530] "GET / HTTP/1.1" 404 994
+127.0.0.1 - - [11/Jan/2018:20:48:24 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Jan/2018:20:57:42 +0530] "GET /users?email=revantprakash@gmail.com&password=81dc9bdb52d04dc2 HTTP/1.1" 404 1004
+127.0.0.1 - - [11/Jan/2018:22:36:58 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [11/Jan/2018:22:39:22 +0530] "GET /GoScaleI/webapi/users?email=revantprakash@gmail.com&password=81dc9bdb52d04dc2 HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [11/Jan/2018:22:44:36 +0530] "GET /GoScaleI/webapi/users?email=revantprakash@gmail.com&password=81dc9bdb52d04dc2 HTTP/1.1" 404 1036
+0:0:0:0:0:0:0:1 - - [11/Jan/2018:22:45:03 +0530] "GET /GoScale/webapi/users?email=revantprakash@gmail.com&password=81dc9bdb52d04dc2 HTTP/1.1" 404 1034

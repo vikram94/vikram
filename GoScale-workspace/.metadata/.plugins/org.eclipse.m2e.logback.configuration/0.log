@@ -1,0 +1,369 @@
+2018-01-10 21:26:52,318 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\GoScale\GoScale-workspace\GoScale\pom.xml
+2018-01-10 21:26:55,093 [Worker-19] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-10 21:26:55,775 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/main/java
+2018-01-10 21:26:55,781 [Worker-19] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/test/java
+2018-01-10 21:26:55,953 [Worker-19] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2018-01-10 21:26:56,666 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 21:26:56,667 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 21:26:56,670 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 21:26:56,670 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 21:27:04,230 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 21:27:04,230 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 21:27:04,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 21:27:04,239 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:09:15,969 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:09:15,970 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:09:15,972 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:09:15,972 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:09:48,986 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:09:48,986 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:09:48,987 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:09:48,987 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:11:18,947 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:11:18,947 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:11:18,948 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:11:18,948 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:12:07,661 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:12:07,662 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:12:07,672 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:12:07,672 [Worker-30] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:12:30,178 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:12:30,178 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:12:30,179 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:12:30,179 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:13:25,954 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:13:25,954 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:13:25,956 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:13:25,956 [Worker-33] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:14:54,321 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:14:54,321 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:14:54,323 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:14:54,323 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:18:07,599 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:18:07,599 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:18:07,604 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:18:07,604 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:20:11,697 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:20:11,697 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:20:11,699 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:20:11,699 [Worker-37] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:37:59,419 [Worker-44] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-10 22:38:00,513 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:38:00,513 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:38:00,515 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:38:00,516 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:38:02,659 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:38:02,660 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:38:02,661 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:38:02,662 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:38:31,374 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:38:31,374 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:38:31,375 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:38:31,376 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:39:42,075 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:39:42,075 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:39:42,077 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:39:42,077 [Worker-45] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:41:44,434 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:41:44,434 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:41:44,436 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:41:44,436 [Worker-44] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:56:57,675 [Worker-49] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-10 22:57:08,750 [Worker-49] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/javax/ws/rs/javax.ws.rs-api/2.0-m02/javax.ws.rs-api-2.0-m02.pom
+2018-01-10 22:57:09,564 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:57:09,565 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:57:09,567 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:57:09,567 [Worker-49] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 22:57:24,927 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:57:24,927 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 22:57:24,929 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 22:57:24,929 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:03:31,197 [Worker-54] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-10 23:03:31,800 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:03:31,801 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:03:31,803 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:03:31,803 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:03:33,563 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:03:33,563 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:03:33,564 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:03:33,565 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:03:53,394 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:03:53,395 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:03:53,395 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:03:53,396 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:04:00,769 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:04:00,769 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:04:00,771 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:04:00,771 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:04:44,989 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:04:44,990 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:04:44,992 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:04:44,992 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:11:24,557 [Worker-60] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-10 23:11:25,008 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:25,009 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:11:25,011 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:25,011 [Worker-60] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:11:26,688 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:26,689 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:11:26,690 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:26,690 [Worker-55] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:11:37,728 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:37,728 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:11:37,729 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:37,730 [Worker-58] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:11:41,101 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:41,101 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:11:41,102 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:41,102 [Worker-59] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:11:43,317 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-10 23:11:43,544 [Worker-55] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-10 23:11:43,961 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/main/java
+2018-01-10 23:11:43,961 [Worker-55] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/test/java
+2018-01-10 23:11:44,273 [Worker-55] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2018-01-10 23:11:44,752 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:44,753 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:11:44,754 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:11:44,754 [Worker-62] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-10 23:12:02,336 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:12:02,337 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-10 23:12:02,338 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-10 23:12:02,338 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:01:21,072 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:01:21,073 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:01:21,075 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:01:21,076 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:01:33,283 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:01:33,283 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:01:33,285 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:01:33,285 [Worker-87] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:02:11,146 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:02:11,147 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:02:11,149 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:02:11,150 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:36:52,080 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:36:52,081 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:36:52,082 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:36:52,082 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:40:10,464 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:40:10,464 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:40:10,465 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:40:10,465 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:40:41,975 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:40:41,975 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:40:41,977 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:40:41,977 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:41:44,377 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:41:44,377 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:41:44,378 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:41:44,379 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:42:01,416 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:42:01,416 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:42:01,425 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:42:01,425 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:42:23,127 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:42:23,127 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:42:23,128 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:42:23,129 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:44:10,873 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:44:10,873 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:44:10,875 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:44:10,875 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:47:02,747 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:47:02,747 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:47:02,748 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:47:02,748 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:47:19,317 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:47:19,319 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:47:19,321 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:47:19,322 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:48:11,927 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:48:11,927 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:48:11,929 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:48:11,929 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:49:51,257 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:49:51,258 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:49:51,261 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:49:51,261 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:51:10,316 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:51:10,317 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:51:10,317 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:51:10,318 [Worker-92] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:51:33,510 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:51:33,510 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:51:33,517 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:51:33,517 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:51:41,812 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:51:41,812 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:51:41,814 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:51:41,814 [Worker-91] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:57:19,124 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:57:19,124 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:57:19,126 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:57:19,126 [Worker-94] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:57:31,219 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:57:31,219 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:57:31,220 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:57:31,220 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 08:58:45,820 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:58:45,820 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 08:58:45,822 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 08:58:45,822 [Worker-98] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:00:50,476 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:00:50,476 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:00:50,478 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:00:50,478 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:00:56,922 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:00:56,922 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:00:56,923 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:00:56,923 [Worker-99] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:13:35,838 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:13:35,838 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:13:35,839 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:13:35,839 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:15:37,532 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:15:37,532 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:15:37,533 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:15:37,533 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:15:58,531 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:15:58,531 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:15:58,532 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:15:58,532 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:17:08,932 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:17:08,933 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:17:08,934 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:17:08,934 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:17:15,450 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:17:15,450 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:17:15,451 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:17:15,451 [Worker-102] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:18:00,241 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:18:00,241 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:18:00,242 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:18:00,242 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:18:14,587 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:18:14,587 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:18:14,588 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:18:14,589 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:19:18,869 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:19:18,870 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:19:18,871 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:19:18,871 [Worker-105] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:20:03,784 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:20:03,784 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:20:03,785 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:20:03,785 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:21:26,222 [Worker-102] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-11 09:21:26,561 [Worker-102] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-11 09:21:27,072 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/main/java
+2018-01-11 09:21:27,073 [Worker-102] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/test/java
+2018-01-11 09:21:27,327 [Worker-102] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-01-11 09:21:27,755 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:21:27,755 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:21:27,757 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:21:27,757 [Worker-104] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:24:03,632 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:24:03,632 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:24:03,633 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:24:03,633 [Worker-114] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:29:04,835 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:29:04,835 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:29:04,836 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:29:04,836 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:29:50,933 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:29:50,933 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:29:50,934 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:29:50,935 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:29:56,126 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:29:56,126 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:29:56,127 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:29:56,127 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:30:47,591 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:30:47,591 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:30:47,592 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:30:47,593 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:31:31,253 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:31:31,253 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:31:31,254 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:31:31,254 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:31:44,428 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:31:44,429 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:31:44,431 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:31:44,431 [Worker-95] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:32:00,333 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:32:00,333 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:32:00,334 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:32:00,334 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:32:49,677 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:32:49,678 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:32:49,678 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:32:49,678 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:32:57,416 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:32:57,416 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:32:57,417 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:32:57,417 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:33:19,497 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:33:19,497 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:33:19,498 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:33:19,498 [Worker-115] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:33:30,205 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:33:30,205 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:33:30,206 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:33:30,206 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:35:19,322 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:35:19,323 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:35:19,324 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:35:19,324 [Worker-101] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:37:50,663 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:37:50,664 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:37:50,664 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:37:50,665 [Worker-111] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:40:49,059 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:40:49,062 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:40:49,066 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:40:49,066 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:40:54,092 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:40:54,092 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:40:54,093 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:40:54,093 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:41:43,035 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:41:43,036 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:41:43,037 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:41:43,037 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:42:16,573 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:42:16,573 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:42:16,574 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:42:16,574 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:43:24,705 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:24,705 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:43:24,706 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:24,706 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:43:32,414 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:32,414 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:43:32,414 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:32,414 [Worker-118] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:43:52,414 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:52,415 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:43:52,416 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:52,416 [Worker-119] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:43:59,876 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:59,876 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:43:59,877 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:43:59,877 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:44:03,444 [Worker-119] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2018-01-11 09:44:03,648 [Worker-119] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.sample.goscale:GoScale:0.0.1-SNAPSHOT @ D:\GoScale\GoScale-workspace\GoScale\pom.xml.
+2018-01-11 09:44:04,277 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/main/java
+2018-01-11 09:44:04,278 [Worker-119] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /GoScale/src/test/java
+2018-01-11 09:44:04,522 [Worker-119] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 1 sec
+2018-01-11 09:44:04,954 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:44:04,954 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:44:04,956 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:44:04,956 [Worker-121] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:46:26,411 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:46:26,411 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:46:26,412 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:46:26,412 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources
+2018-01-11 09:46:44,810 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:46:44,810 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\main\resources
+2018-01-11 09:46:44,811 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-11 09:46:44,811 [Worker-120] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\GoScale\GoScale-workspace\GoScale\src\test\resources

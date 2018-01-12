@@ -1,0 +1,6 @@
+package com.sample.goscale.GoScale.utils;
+
+public class Constants {
+
+	public static String mysqlTableName="campushaat_db";
+}

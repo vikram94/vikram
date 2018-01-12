@@ -1,0 +1,5 @@
+package com.sample.goscale.GoScale.dao;
+
+public class UsersDao {
+
+}

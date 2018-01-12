@@ -1,0 +1,5 @@
+package com.sampe.goscale.GoScale.services;
+
+public class UserService {
+
+}

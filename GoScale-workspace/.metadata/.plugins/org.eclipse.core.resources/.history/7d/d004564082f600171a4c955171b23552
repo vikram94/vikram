@@ -1,0 +1,33 @@
+package com.sampe.goscale.GoScale.resources;
+
+
+import javax.ws.rs.Consumes;
+import javax.ws.rs.GET;
+import javax.ws.rs.Path;
+import javax.ws.rs.Produces;
+import javax.ws.rs.QueryParam;
+import javax.ws.rs.core.MediaType;
+
+import com.sampe.goscale.GoScale.models.User;
+import com.sampe.goscale.GoScale.services.UsersService;
+
+@Path("/users")
+@Consumes(MediaType.APPLICATION_JSON)
+public class UsersResource {
+
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	public User checkLogin(@QueryParam("email") String email, 
+						@QueryParam("password") String password) throws Exception{
+		UsersService usersService = new UsersService();
+		return usersService.checkLogin(email, password);
+	}
+	@GET
+	@Produces(MediaType.APPLICATION_JSON)
+	@Path("verifyOTPonMail")
+	public UserResponse verifyOTP(@QueryParam("email") String email, 
+						@QueryParam("otp") String otp) throws Exception{
+		UsersService usersService = new UsersService();
+		return usersService.verifyOTP(email, otp);
+	}
+}

@@ -1,0 +1,11 @@
+package com.sample.goscale.GoScale.utils;
+
+public class Constants {
+
+	public static String mysqlTableName="campushaat_db";
+	
+	public static String CH200 = "200";	// Success
+	public static String CH500 = "500";	// Server error/exceptions
+	public static String CH400 = "400";	// Logical error, ex-email not registered
+	public static String CH401 = "401"; // Email-not active
+}
